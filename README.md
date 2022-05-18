@@ -5,7 +5,7 @@
 
 - :iphone: Message me on telegram [https://t.me/I_m_MadMat](https://t.me/I_m_MadMat)
 
-- 📫 Write me at **mattia.evagelisti00@gmail.com**
+- 📫 Write me at **mattia.evangelisti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
