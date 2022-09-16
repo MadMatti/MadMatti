@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MadMatti aka Mattia Evangelisti</h1>
 <h3 align="center">A technology enthusiast from Italy :computer:</h3>
 
-- :mortar_board: I’m currently studying **Computer Engineering @ Polytechnic of Turin**
+- :mortar_board: I’m currently studying **Data Science at KTH, Sweden**
 
 - :iphone: Message me on telegram [https://t.me/I_m_MadMat](https://t.me/I_m_MadMat)
 
